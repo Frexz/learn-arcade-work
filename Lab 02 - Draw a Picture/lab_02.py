@@ -38,10 +38,7 @@ arcade.draw_rectangle_filled(center_x=240,
                              height=480,
                              color=arcade.csscolor.DARK_BLUE)
 
-# Draw arc, first quadrant
-arcade.draw_arc_filled(center_x=480,
-                       center_y=300,
-                       width=360,)
+
 
 # Finish drawing
 arcade.finish_render()
